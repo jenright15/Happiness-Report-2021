@@ -10,3 +10,9 @@ Exploratory data analysis is done through creating an interactive dashboard in T
 - The dashboard shows us that there is a linear relationship between ladder score and most of the features.
 - The relationships are explored further in regression models.
 ![Picture1](https://user-images.githubusercontent.com/66652338/125126241-c64dca80-e0c8-11eb-80c4-ab9f742d7f10.png)
+
+The modeling is done in Jupyter Notebook
+- using scikit-learn linear regression and random forests regression
+- pandas
+- numpy
+- seaborn for plotting
