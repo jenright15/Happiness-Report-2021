@@ -7,4 +7,5 @@ The objective is to derive key insights from the data into what makes people hap
 
 # Methods
 Exploratory data analysis is done through creating an interactive dashboard in Tableau.
-Once
+- The dashboard shows us that there is a linear relationship between ladder score and most of the features.
+- The relationships are explored further in regression models.
