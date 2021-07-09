@@ -27,3 +27,6 @@ The modeling is done in Jupyter Notebook
 ![gen-free](https://user-images.githubusercontent.com/66652338/125127038-fb0e5180-e0c9-11eb-8620-074106ef4832.png)
 
 ![vimp](https://user-images.githubusercontent.com/66652338/125127036-fb0e5180-e0c9-11eb-9f6d-27a19a13e5a8.png)
+
+![res](https://user-images.githubusercontent.com/66652338/125127343-5e987f00-e0ca-11eb-8cc5-c8eedff6754c.PNG)
+
